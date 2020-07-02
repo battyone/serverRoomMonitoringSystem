@@ -1,0 +1,28 @@
+E:\Visual Studio 12\Project\Lab13App\Lab13App\bin\Debug\Lab13App.exe.config
+E:\Visual Studio 12\Project\Lab13App\Lab13App\bin\Debug\Lab13App.exe
+E:\Visual Studio 12\Project\Lab13App\Lab13App\bin\Debug\Lab13App.pdb
+E:\Visual Studio 12\Project\Lab13App\Lab13App\obj\Debug\Lab13App.Form1.resources
+E:\Visual Studio 12\Project\Lab13App\Lab13App\obj\Debug\Lab13App.Properties.Resources.resources
+E:\Visual Studio 12\Project\Lab13App\Lab13App\obj\Debug\Lab13App.csproj.GenerateResource.Cache
+E:\Visual Studio 12\Project\Lab13App\Lab13App\obj\Debug\Lab13App.exe
+E:\Visual Studio 12\Project\Lab13App\Lab13App\obj\Debug\Lab13App.pdb
+E:\Visual Studio 12\Project\Lab13App\Lab13App\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Visual Studio 12\Project\Lab13App\Lab13App\obj\Debug\Lab13App.ucConfig.resources
+E:\Visual Studio 12\Project\Lab13App\Lab13App\bin\Debug\LBIndustrialCtrls.dll
+E:\Visual Studio 12\Project\Lab13App\Lab13App\obj\Debug\Lab13App.ucLog.resources
+E:\Visual Studio 12\Project\Lab13App\Lab13App\obj\Debug\Lab13App.ucDashboard.resources
+E:\Visual Studio 12\Project\Lab13App\Lab13App\obj\Debug\Lab13App.csprojResolveAssemblyReference.cache
+E:\Visual Studio 12\Project\Lab13App\Lab13App\obj\Debug\Lab13App.ConfigForm.resources
+E:\KULIAH\Lab13App\Lab13App\bin\Debug\Lab13App.exe.config
+E:\KULIAH\Lab13App\Lab13App\obj\Debug\Lab13App.exe
+E:\KULIAH\Lab13App\Lab13App\obj\Debug\Lab13App.pdb
+E:\KULIAH\Lab13App\Lab13App\bin\Debug\Lab13App.exe
+E:\KULIAH\Lab13App\Lab13App\bin\Debug\Lab13App.pdb
+E:\KULIAH\Lab13App\Lab13App\obj\Debug\Lab13App.csprojResolveAssemblyReference.cache
+E:\KULIAH\Lab13App\Lab13App\obj\Debug\Lab13App.ConfigForm.resources
+E:\KULIAH\Lab13App\Lab13App\obj\Debug\Lab13App.Form1.resources
+E:\KULIAH\Lab13App\Lab13App\obj\Debug\Lab13App.Properties.Resources.resources
+E:\KULIAH\Lab13App\Lab13App\obj\Debug\Lab13App.ucConfig.resources
+E:\KULIAH\Lab13App\Lab13App\obj\Debug\Lab13App.ucDashboard.resources
+E:\KULIAH\Lab13App\Lab13App\obj\Debug\Lab13App.ucLog.resources
+E:\KULIAH\Lab13App\Lab13App\obj\Debug\Lab13App.csproj.GenerateResource.Cache
